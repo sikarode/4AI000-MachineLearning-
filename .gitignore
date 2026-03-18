@@ -4,6 +4,7 @@
 # 排除数据文件夹
 data/
 check_data.py
+output/
 
 # Python缓存
 __pycache__/
